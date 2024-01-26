@@ -15,6 +15,15 @@ This project is a fun and interactive console-based game that combines the eleme
 - **Interactive Gameplay:** The game provides an interactive console-based interface.
 - **Object-Oriented Design:** The game is designed using OOP principles, making the code modular and easy to understand.
 
+## Special Attacks:
+Every player can choose 2 unique from 4 special attacks that will help him reach the final cell first
+A player can choose during his “recharge the wallet” turn to launch a special attack instead of recharging his wallet. (If he is not denied from rolling dice)
+- **Fire Attack:** Choose a player to burn. Deduct 20 coins from his wallet for his next 3 turns 
+- **Ice Attack:** Choose a player to prevent from rolling the next turn.
+- **Lightnining Attack:** Deduct 20 coins from all other players.
+- **Poison Attack:** Choose a player to poison. For 5 turns, deduct 1 number from his dice roll
+
+
 ## Installation
 To install the game, follow these steps:
 1. Clone the repository: `git clone https://github.com/Ma7moudMSA/Snake-and-Ladder-Monopoly-game.git`
